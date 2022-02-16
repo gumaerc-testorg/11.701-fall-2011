@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Questions
 uid: ab5f7b79-26cb-16b9-4abf-0eeb8cde37c1
 ---
