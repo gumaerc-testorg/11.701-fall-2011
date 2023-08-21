@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on class discussion, reaction papers,
+  the group project presentation, and the final paper of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
